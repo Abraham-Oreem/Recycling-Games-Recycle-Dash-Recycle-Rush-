@@ -8,7 +8,6 @@
 
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3.62f1-blue)](https://unity.com/) 
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE.md)
 
 *Recycling-Games* is a Unity project that features two distinct, engaging games aimed at teaching players about recycling and waste management.
 
@@ -113,7 +112,3 @@ Both games use *PlayFab* for storing player scores and managing leaderboards.
     2.  GarbageSorting
 
 ---
-
-## 📜 License
-
-This project is licensed under the *MIT License*.

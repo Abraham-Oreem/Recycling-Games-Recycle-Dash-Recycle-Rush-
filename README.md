@@ -12,7 +12,7 @@
 
 *Recycling-Games* is a Unity project that features two distinct, engaging games aimed at teaching players about recycling and waste management.
 
-* Recycle Dash: An *endless runner* where players collect trash items while navigating obstacles. And after collecting a certain number of items the player has to sort the items.
+* Recycle Dash: An *endless runner* where players collect trash items while navigating through obstacles. And after collecting a certain number of items the player has to sort the items.
 * Recycle Rush: A *drag-and-drop sorting game* where players must sort the items into the correct recycling bins.
 
 This project combines fun gameplay with educational content to promote environmental awareness.
